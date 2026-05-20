@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-Interface-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-REBELO49-22c55e?style=for-the-badge&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-7c6af7?style=for-the-badge)
 
 ---
